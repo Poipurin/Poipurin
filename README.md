@@ -10,7 +10,6 @@
 </p>
 <hr>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&theme=tokyonight)](https://github.com/Poipurin/github-readme-stats)
   
  
 <!--
