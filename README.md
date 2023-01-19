@@ -8,7 +8,7 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
 
 <h2>Let's connect!</h2>
 <p>
-  <a href="https://www.behance.net/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white" alt="poi.exe"></a>  <a href="https://linkedin.com/in/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="poi"> </a> 
+  <a href="https://linkedin.com/in/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="poi"> <a href="https://www.behance.net/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white" alt="poi.exe"></a>  </a> 
 </p>
 
   
