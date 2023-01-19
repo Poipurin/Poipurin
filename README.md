@@ -8,10 +8,10 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
 
 <h2>Let's connect!</h2>
 <p>
-  <a href="https://linkedin.com/in/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="poi"> <a href="https://www.behance.net/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white" alt="poi.exe"></a>  </a> 
+  <a href="https://linkedin.com/in/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="poi"> <a href="https://www.behance.net/bpinorojo" rel="nofollow"><img src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white" alt="poi.exe"></a> <a href="mailto:b.pinorojo@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="poi.exe"></a> <a href="https://discord.gg/Poi.exe#6375" rel="nofollow"><img src="https://img.shields.io/badge/Discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white" alt="poi.exe"></a></a>
 </p>
 
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true"> <br>
   
   
