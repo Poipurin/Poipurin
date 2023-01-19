@@ -1,6 +1,6 @@
 <p align="center"><img  src="https://i.ibb.co/6vyTB5d/readme2.png" alt="readme" border="0"></p>
 <h3 align="center">✨in the process of making my way in the development universe✨</h3>
-<hr>
+<hr><div align="center">
 <h4>More about me</h4>
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer. 
   
@@ -13,7 +13,7 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
 <hr>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true)
- 
+ </div>
 <!--
 **Poipurin/Poipurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
