@@ -6,7 +6,7 @@
   
 I work in both back-end and front-end, the latter, complementing it with the Ui area.</p>
   
-<h4>Languages and stuff</h4>
+<h4>Languages & stuff</h4>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true">
