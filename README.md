@@ -1,5 +1,5 @@
-<h1>Hi there! I’m Bárbara Pino👋</h1>
-<h3>✨in the process of making my way in the development universe✨</h3>
+<p align="center"><img  src="https://i.ibb.co/QvzZpZV/readme.png" alt="readme" border="0"></p>
+<h3 align="center">✨in the process of making my way in the development universe✨</h3>
 <hr>
 <h4>More about me</h4>
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer. 
