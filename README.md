@@ -1,4 +1,4 @@
-<p align="center"><img  src="https://i.ibb.co/QvzZpZV/readme.png" alt="readme" border="0"></p>
+<p align="center"><img  src="https://i.ibb.co/6vyTB5d/readme2.png" alt="readme" border="0"></p>
 <h3 align="center">✨in the process of making my way in the development universe✨</h3>
 <hr>
 <h4>More about me</h4>
