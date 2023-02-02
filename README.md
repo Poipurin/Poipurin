@@ -5,7 +5,7 @@
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
- ✨<b><i>Currently learning:</b> TypeScript and Sass.</i></p>
+ ✨<b><i>Currently learning:</b> TypeScript & Sass.</i></p>
   
 <h4>Languages & stuff</h4>
   
