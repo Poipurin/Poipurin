@@ -1,13 +1,13 @@
 <p align="center"><img  src="https://i.ibb.co/6vyTB5d/readme2.png" alt="readme" border="0"></p>
-<h3 align="center">✨in the process of making my way in the development universe✨</h3>
+<h2 align="center">✨in the process of making my way in the development universe✨</h2>
 <div align="center">
-<h4>More about me</h4>
+<h3>More about me</h3>
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
- ✨<b><i>Currently learning:</b> TypeScript & Sass.</i></p>
+ ✨<b><i>Currently learning:</b> TypeScript & Sass.</i><br>
   
-<h4>Languages & stuff</h4>
+<h3>Languages & stuff</h3>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true">
