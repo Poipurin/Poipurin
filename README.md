@@ -2,9 +2,10 @@
 <h3 align="center">✨in the process of making my way in the development universe✨</h3>
 <div align="center">
 <h4>More about me</h4>
-<p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer. 
+<p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
+I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
-I work in both back-end and front-end, the latter, complementing it with the Ui area.</p>
+ ✨<b><i>Currently learning:</b> TypeScript and Sass.</i></p>
   
 <h4>Languages & stuff</h4>
   
