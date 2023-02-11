@@ -1,5 +1,6 @@
 <p align="center"><img  src="https://i.postimg.cc/rm3GNQCy/readme2.png" alt="readme" border="0"></p>
 <h2 align="center">✨in the process of making my way in the development universe✨</h2>
+<i>maybe a game developer or data scientist... who knows (●´ω｀●)</i>
 <div align="center">
 <h3>More about me</h3>
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
