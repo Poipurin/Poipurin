@@ -4,7 +4,7 @@
 <i>maybe a game developer or data scientist... who knows (●´ω｀●)</i><br>
 <br>
  <b>Slightly eccentric | Likes printed socks | Rodentia</b>
-<h3>More about me</h3>
+
 <p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
