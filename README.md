@@ -1,7 +1,7 @@
 <p align="center"><img  src="https://i.postimg.cc/rm3GNQCy/readme2.png" alt="readme" border="0"></p>
 <h2 align="center">✨in the process of making my way in the development universe✨</h2>
 <div align="center">
-<i>maybe a game developer or data scientist... who knows (●´ω｀●)</i><br>
+<i>maybe a game developer or data scientist... who knows </i>(●´ω｀●)<br>
 <br>
  <b>Slightly eccentric | Likes printed socks | Rodentia</b>
 
