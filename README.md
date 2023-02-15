@@ -9,7 +9,7 @@
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
  ✨<b><i>Currently learning:</b> TypeScript & Sass.</i><br>
-  
+ ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a> </i><br>
 <h3>Languages & stuff</h3>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">  <br>
