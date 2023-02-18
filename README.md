@@ -13,8 +13,7 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
 <h3>Languages & stuff</h3>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Poipurin&show_icons=true&theme=transparent&hide_border=true"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poipurin&show_icons=true&theme=transparent&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=transparent&show_icons=true&hide_border=true">
   
   
   <h2>Let's connect!</h2>
