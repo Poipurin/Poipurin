@@ -12,8 +12,10 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
  ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a> </i><br>
 <h3>Languages & stuff</h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Poipurin&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=Poipurin&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true">
+  
   
   
   <h2>Let's connect!</h2>
