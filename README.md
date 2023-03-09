@@ -5,11 +5,11 @@
 <br>
  <b>Slightly eccentric | Likes printed socks | Rodentia</b>
 
-<p> I’m an Industrial Designer, Ux, Ui and Full Stack Java Developer.<br>
+<p> I’m an Full Stack Java Developer, industrial Designer and Ux-Ui Designer.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
  ✨<b><i>Currently learning:</b> TypeScript & Sass.</i><br>
- ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a> </i><br>
+ ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a> & <a href="https://github.com/Poipurin/Ladera"> Ladera </a> </i><br>
 <h3>Languages & stuff</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true"><br>
   
