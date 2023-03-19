@@ -5,7 +5,7 @@
 <br>
  <b>Slightly eccentric | Likes printed socks | Rodentia</b>
 
-<p> I’m an Full Stack Java Developer, industrial Designer and Ux-Ui Designer.<br>
+<p> I’m an Full Stack Java Developer, industrial Designer, Ux-Ui Designer and quality assurance automation. Yup an unicorn.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
  ✨<b><i>Currently learning:</b> TypeScript & Sass.</i><br>
