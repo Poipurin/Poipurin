@@ -8,8 +8,8 @@
 <p> I’m an Full Stack Java Developer, industrial Designer, Ux-Ui Designer and quality assurance automation. Yup a unicorn.<br>
 I work in both back-end and front-end, the latter, complementing it with the Ui area.<br>
   
- ✨<b><i>Currently learning:</b> TypeScript & Sass.</i><br>
- ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a> & <a href="https://github.com/Poipurin/Ladera"> Ladera </a> </i><br>
+ ✨<b><i>Currently learning:</b> data science</i><br>
+ ✨<b><i>Working on:</b> <a href="https://github.com/Poipurin/Shoot-em-up"> Shoot 'em up  game</a></i><br>
 <h3>Languages & stuff</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Poipurin&theme=tokyonight_duo&hide_border=true"><br>
   
@@ -24,17 +24,3 @@ I work in both back-end and front-end, the latter, complementing it with the Ui 
 </p>
  </div>
  
-<!--
-**Poipurin/Poipurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
